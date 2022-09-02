@@ -1,3 +1,6 @@
+breadth first search
+maze shortest path finder
+
 there must exist a .txt file named maze to read in from the same folder.
 maze must consist of...
 - for open spaces
